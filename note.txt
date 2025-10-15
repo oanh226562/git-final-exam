@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản dễ dàng.
 - Giúp làm việc nhóm hiệu quả hơn.
 - Làm quen với Git giúp hiểu quy trình phát triển phần mềm.
+- Git rất linh hoạt khi xử lý lỗi.
+- Dễ dàng quay lại phiên bản cũ khi cần.
