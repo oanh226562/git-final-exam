@@ -1,4 +1,7 @@
-Hello, this is Nguyen Thi Yen Oanh, sinh viên năm 4 ngành Công nghệ thông tin.
+Hello, this is Nguyen Thi Yen Oanh
+Xin chào, tôi là Nguyễn Thị Yến Oanh
+Conflict resolved on 15/10/2025
+
 Tôi thích đọc sách và chạy bộ.
 Tôi đến từ Vĩnh Long.
 
