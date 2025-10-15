@@ -1,0 +1,5 @@
+Tính năng mới: Quản lý thông tin khách hàng.
+- Cho phép thêm, sửa, xóa khách hàng.
+- Hiển thị danh sách khách hàng trong giao diện WinForms.
+- Tích hợp tìm kiếm theo tên hoặc mã KH.
+- Lưu dữ liệu vào SQL Server.
