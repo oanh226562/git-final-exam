@@ -9,7 +9,12 @@
 - Thứ 7: Làm mini project
 - Chủ nhật: Tổng kết và review
 
+<<<<<<< Updated upstream
 - Thực hành lại các lệnh Git cơ bản.
 - Chuẩn bị bài kiểm tra cuối kỳ.
 - Học thêm về GitHub Actions.
 - Tìm hiểu CI/CD cơ bản.
+=======
+- Ôn tập về reset và revert.
+- Viết báo cáo tổng kết.
+>>>>>>> Stashed changes
